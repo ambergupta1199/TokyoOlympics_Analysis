@@ -7,4 +7,12 @@
 - **Analyzing the data:**: Created Synapse endpoint in Power BI to fetch the transformed data & created report on top of it.
 ### Power BI visualization dashboard
 ![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/01e8d20f-7776-414a-8439-519b462311e1)
+## Project Snapshots
+- **Data ingestion**
+![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/916ceb2c-d79a-4769-a20e-d6b786aacdfc)
+- **Dumped raw data to ADLS**
+![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/49b982f2-3112-4442-8f10-4a62742edcb9)
+
+
+
 
