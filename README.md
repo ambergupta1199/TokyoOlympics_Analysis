@@ -16,6 +16,9 @@
   ![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/c62ff59a-f3a1-475b-9d76-583a246be304)
 - **Dumped Transformed data in ADLS**
   ![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/3b3fb001-ae77-4257-b1e8-fd44c8ad7e27)
+- **Synapse**
+  ![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/cc6d9e33-3aae-41d0-83a2-4b23680aa99c)
+
   
 
 
