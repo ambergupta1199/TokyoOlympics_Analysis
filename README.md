@@ -6,7 +6,7 @@
 - **Implementation of Business Logic:** Implemented Logic in Azure Synapse using SQL after loading data into Synapse from ADLS
 - **Analyzing the data:**: Created Synapse endpoint in Power BI to fetch the transformed data & created report on top of it.
 ### Power BI visualization dashboard
-![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/01e8d20f-7776-414a-8439-519b462311e1)
+![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/a9545c5e-b8cf-42a0-9902-83168b3eab1b)
 ## Project Snapshots
 - **Data ingestion**
 ![image](https://github.com/ambergupta1199/TokyoOlympics_Analysis/assets/79975210/916ceb2c-d79a-4769-a20e-d6b786aacdfc)
